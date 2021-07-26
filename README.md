@@ -3,7 +3,7 @@
 # Overview
 In this analysis, I am assisting Maria, a data analyst, in aggregating data of students in various high school dsitricts. The purpose of this analysis is to show how the Python programming language can filter out, clean and modify data. Anaconda, an open source software that runs in python, will be use in this analysis.
 
-After the initial analysis was completed, the data was found to be altered, particularly the math and reading scores for some of the ninth graders in Thomas High School (this is one of the schools in the district). Instead of ignoring the data, I am going to replace the altered grades with the words "NaN". This indicates that the grade of the student was altered. After correcting and cleaning the data, I was able to reproduce the initial analysis. The results are listed below.
+After the initial analysis was completed, the data was found to be altered, particularly the math and reading scores for some of the ninth graders in Thomas High School (this is one of the 15 schools in the analysis). Instead of ignoring the data, I am going to replace the altered grades with the words "NaN". This indicates that the grade of the student was altered. After correcting and cleaning the data, I was able to reproduce the initial analysis. The results are listed below.
 
 # Resources
 Software: Python 3.7. Anaconda 4.10.3.
